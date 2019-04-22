@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 #Weather App - personal project
+
+## I decided to challenge myself to make a weather app fetching the data from Open Weather Map API
+
+### This has been started but needs more work on it! 
+
 ## Available Scripts
 
 In the project directory, you can run:
